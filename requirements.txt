@@ -1,0 +1,4 @@
+inference-sdk
+python-dotenv
+opencv-python
+pandas
